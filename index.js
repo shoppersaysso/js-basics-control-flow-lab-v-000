@@ -12,3 +12,7 @@ function scuberGreetingForFeet(num) {
   }
 
 }
+
+function ternaryCheckCity() {
+  
+}
