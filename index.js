@@ -1,4 +1,4 @@
-function scuberGreetingForFeet(num) {
+function scuberGreetingForFeet() {
   let message;
 
   if (num <= 400) {
@@ -14,5 +14,9 @@ function scuberGreetingForFeet(num) {
 }
 
 function ternaryCheckCity() {
+  
+}
+
+function switchOnCharmFromTip() {
   
 }
