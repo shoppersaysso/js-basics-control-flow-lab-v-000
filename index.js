@@ -8,9 +8,9 @@ function scuberGreetingForFeet(num) {
     } else {
       if (num >= 2500) {
       return 'No can do.';
+      }
     }
   }
-}
 }
 
 function ternaryCheckCity() {
