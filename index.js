@@ -1,4 +1,4 @@
-function scuberGreetingForFeet() {
+function scuberGreetingForFeet(num) {
   let message;
 
   if (num <= 400) {
