@@ -1,8 +1,7 @@
-function scuberGreetingForFeet() {
-  let message;
+function scuberGreetingForFeet(num) {
 
   if (num <= 400) {
-    message = 'This one is on me!';
+    return 'This one is on me!';
   } else {
     if (num <= 2000 && num >= 401) {
       message = 'I will gladly take your thirty bucks.';
@@ -14,9 +13,9 @@ function scuberGreetingForFeet() {
 }
 
 function ternaryCheckCity() {
-  
+
 }
 
-function switchOnCharmFromTip() {
+function switchOnCharmFromTip(tip) {
   
 }
